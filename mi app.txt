@@ -1,0 +1,23 @@
+
+Radios Peru Stereo
+-------------------------
+Máxima calidad de audio disponible, interfaz moderna, mas de 170 radios online.
+-------------------------
+Radios Peru Stereo es la aplicación de radio online que te permite escuchar más de 170 emisoras del Perú con la máxima calidad de sonido disponible. Una interfaz única, rápida, elegante y fácil de usar, la aplicación Radios Peru Stereo te dará la mejor experiencia a la hora de escuchar radio online.
+
+Interfaz moderna y rapida, basada en Flutter.
+
+🇵🇪 Más de 170 radios de Perú🇵🇪.
+
+QUE TE OFRECEMOS 📻 :
+
+La máxima calidad de audio disponible de la radio emisora.
+
+Con nuestra aplicación Radios Peru Stereo, puedes escuchar radio en linea incluso si no te encuentras en el Peru o mientras juegas o usas otras aplicaciones.
+
+La interfaz es extremadamente fácil de usar, con un solo toque se te permite agregar una emisora a tu pagina de favoritos o utilizar la búsqueda para encontrar fácilmente la radio que estas buscando.
+
+Puedes escuchar a través de los altavoces del teléfono, Bluetooth, Chromecast.
+
+Muchas Gracias,
+Equipo de Radios Peru Stereo.

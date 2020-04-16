@@ -1,0 +1,1137 @@
+{
+	"studio 92" : {
+		"link" : "http://www.radiosdelperu.pe/studio-92",
+		"source" : "http://18543.live.streamtheworld.com/RADIO_STUDIO92_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gScBgqwDEp.png"
+		},
+	" rock and pop" : {
+		"link" : "http://www.radiosdelperu.pe/radio-rock-and-pop",
+		"source" : "http://listen.radionomy.com/radiorockandpop",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/qx5xfdgupxf5.png"
+		},
+	"rpp noticias" : {
+		"link" : "http://www.radiosdelperu.pe/rpp-noticias",
+		"source" : "http://19473.live.streamtheworld.com/RADIO_RPP_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/WkzScZeaR2.png"
+		},
+	" oasis" : {
+		"link" : "http://www.radiosdelperu.pe/radio-oasis",
+		"source" : "http://13743.live.streamtheworld.com/CRP_OAS_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/XrH3yrhdkt.png"
+		},
+	" oxigeno" : {
+		"link" : "http://www.radiosdelperu.pe/radio-oxigeno",
+		"source" : "https://19793.live.streamtheworld.com/RADIO_OXIGENO_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ns3bnMSxg9.png"
+		},
+	" la zona" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-zona",
+		"source" : "http://15363.live.streamtheworld.com/RADIO_LAZONA_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Z6ZZYZYE6R.jpg"
+		},
+	" 1160" : {
+		"link" : "http://www.radiosdelperu.pe/radio-1160",
+		"source" : "http://192.99.148.184:3624/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mb5vmYW6qp.png"
+		},
+	" solar fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-solar-fm",
+		"source" : "http://ip.blstreamperu.com:9902/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/c6fcackvybu9.png"
+		},
+	"stereo 88" : {
+		"link" : "http://www.radiosdelperu.pe/stereo-88",
+		"source" : "http://65.60.45.74:8058/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bfemtmtf8twd.png"
+		},
+	"peru folk " : {
+		"link" : "http://www.radiosdelperu.pe/peru-folk-radio",
+		"source" : "http://gnstreammedia.net:8020/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/utzWtUj72s.png"
+		},
+	" az planet" : {
+		"link" : "http://www.radiosdelperu.pe/radio-az-planet",
+		"source" : "http://91.121.113.129:8069/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gdweggzejzah.jpg"
+		},
+	"mar" : {
+		"link" : "http://www.radiosdelperu.pe/radiomar",
+		"source" : "http://18493.live.streamtheworld.com/CRP_MAR_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gaF98DkLrX.png"
+		},
+	" altamar" : {
+		"link" : "http://www.radiosdelperu.pe/radio-altamar",
+		"source" : "http://91.121.113.129:8120/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/k5AEr3EfMt.png"
+		},
+	"kpopway" : {
+		"link" : "http://www.radiosdelperu.pe/kpopway",
+		"source" : "http://smoke.wavestreamer.com:2684/stream/1/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/z9TTRb5k73.png"
+		},
+	"cadena sur 1073 fm" : {
+		"link" : "http://www.radiosdelperu.pe/cadena-sur-1073-fm",
+		"source" : "http://162.219.28.116:9378/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dmz5k8nlegny.png"
+		},
+	" sonica 1033" : {
+		"link" : "http://www.radiosdelperu.pe/radio-sonica-1033",
+		"source" : "http://51.255.123.116:6017/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/u6wybgecyxev.png"
+		},
+	" las vegas" : {
+		"link" : "http://www.radiosdelperu.pe/radio-las-vegas",
+		"source" : "http://167.114.118.120:7286/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2GfU2F2Mtb.png"
+		},
+	" salkantay" : {
+		"link" : "http://www.radiosdelperu.pe/radio-salkantay",
+		"source" : "http://ip.melodyradios.com:8887/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/shxzhdcbmb5g.jpeg"
+		},
+	" nueva q" : {
+		"link" : "http://www.radiosdelperu.pe/radio-nueva-q",
+		"source" : "http://18823.live.streamtheworld.com/CRP_NQ_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8fTKXj2Ynz.png"
+		},
+	" santa rosa 1051" : {
+		"link" : "http://www.radiosdelperu.pe/radio-santa-rosa-1051",
+		"source" : "http://195.154.182.222:3401/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/HhtR3ek22E.jpg"
+		},
+	" fiestasur" : {
+		"link" : "http://www.radiosdelperu.pe/radio-fiestasur",
+		"source" : "http://173.208.195.26:8005/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/y3uqkfj4xt9w.png"
+		},
+	"antena sur" : {
+		"link" : "http://www.radiosdelperu.pe/antena-sur",
+		"source" : "http://108.178.57.196:8047/;stream.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Dxw29fyKsr.png"
+		},
+	"acbn  maranatha" : {
+		"link" : "http://www.radiosdelperu.pe/acbn-radio-maranatha",
+		"source" : "http://stream2.sarandi690.com.uy:26283/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/kkaehccy7psx.jpg"
+		},
+	" amauta fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-amauta-fm",
+		"source" : "http://195.154.52.184:9998/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/v7ubtnncxlln.jpeg"
+		},
+	"estacion wari 951 fm" : {
+		"link" : "http://www.radiosdelperu.pe/estacion-wari-951-fm",
+		"source" : "http://radio.transmite.pe:9306/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wdpfca3uscqm.jpeg"
+		},
+	" moderna papa 930 am" : {
+		"link" : "http://www.radiosdelperu.pe/radio-moderna-papa-930-am",
+		"source" : "http://198.100.158.66:9080/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8zzc6bwefd5l.png"
+		},
+	"antares  919 fm" : {
+		"link" : "http://www.radiosdelperu.pe/antares-radio-919-fm",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fsmpv2cnszvz.jpg"
+		},
+	" senorial" : {
+		"link" : "http://www.radiosdelperu.pe/radio-senorial",
+		"source" : "http://212.83.146.67:7214/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/zpqgcmpzvm6x.jpeg"
+		},
+	" maria peru" : {
+		"link" : "http://www.radiosdelperu.pe/radio-maria-peru",
+		"source" : "http://dreamsiteradiocp4.com:8020/stream.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bTXRWmLKeJ.png"
+		},
+	" cumbre" : {
+		"link" : "http://www.radiosdelperu.pe/radio-cumbre",
+		"source" : "http://radio.transmite.pe:9330/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xdwtyr4knzld.png"
+		},
+	"pachamama" : {
+		"link" : "http://www.radiosdelperu.pe/pachamama",
+		"source" : "http://pacha.blstreamperu.com:9822/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rvkbaen4qe6a.jpeg"
+		},
+	" matucana" : {
+		"link" : "http://www.radiosdelperu.pe/radio-matucana",
+		"source" : "http://radio.transmite.pe:9316/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/UedntJXD3E.png"
+		},
+	" felicidad" : {
+		"link" : "http://www.radiosdelperu.pe/radio-felicidad",
+		"source" : "http://18313.live.streamtheworld.com/RADIO_FELICIDAD_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tkVbkyCh6S.png"
+		},
+	"activa 1047 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radioactiva-1047-fm",
+		"source" : "http://45.63.107.36:8024/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tdymkjbc4cuv.png"
+		},
+	" armonia" : {
+		"link" : "http://www.radiosdelperu.pe/radio-armonia",
+		"source" : "http://radio.sistemasandinos.org:7146/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/eq7bf5yuqwkp.png"
+		},
+	"bbn" : {
+		"link" : "http://www.radiosdelperu.pe/bbn",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fvwqpm3xwxud.png"
+		},
+	" alegria huancayo" : {
+		"link" : "http://www.radiosdelperu.pe/radio-alegria-huancayo",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mxcmnvetrqfm.png"
+		},
+	" relax lima" : {
+		"link" : "http://www.radiosdelperu.pe/radio-relax-lima",
+		"source" : "http://stream.zenolive.com/41rzrqad33duv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hmzmcn7z5gmf.png"
+		},
+	"sabor mix" : {
+		"link" : "http://www.radiosdelperu.pe/sabor-mix",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2cud37a8gvpj.png"
+		},
+	" huancayo" : {
+		"link" : "http://www.radiosdelperu.pe/radio-huancayo",
+		"source" : "http://212.83.146.67:7208/;.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/6bbqanuyxe9m.png"
+		},
+	" superstereo" : {
+		"link" : "http://www.radiosdelperu.pe/radio-superstereo",
+		"source" : "http://94.23.84.122:7012/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/McTawDTEDT.png"
+		},
+	" karimar 911 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-karimar-911-fm",
+		"source" : "http://195.154.56.114:9254/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jn5neavce2uc.png"
+		},
+	" nova piura" : {
+		"link" : "http://www.radiosdelperu.pe/radio-nova-piura",
+		"source" : "http://67.212.179.138:8054/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/u2kujdbu8dfa.jpg"
+		},
+
+	"music okey" : {
+		"link" : "http://www.radiosdelperu.pe/music-okey",
+		"source" : "http://195.154.167.62:9600/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fjndVVzhJ9.png"
+		},
+	" satelite 1023 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-satelite-1023-fm",
+		"source" : "http://195.154.182.222:3338/live",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tndnpfnjqkkq.png"
+		},
+	"bbn" : {
+		"link" : "http://www.radiosdelperu.pe/bbn",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fvwqpm3xwxud.png"
+		},
+	" antena uno" : {
+		"link" : "http://www.radiosdelperu.pe/radio-antena-uno",
+		"source" : "http://shaincast.caster.fm:37903/listen.mp3?type=.flv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mbqcnxugpyhg.png"
+		},
+	" la kalle" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-kalle",
+		"source" : "http://167.114.118.120:7448/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/9hxrjuhEGv.png"
+		},
+	" titanio" : {
+		"link" : "http://www.radiosdelperu.pe/radio-titanio",
+		"source" : "http://67.212.189.122:8026/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bmdkj4du9u35.png"
+		},
+	" sicuani" : {
+		"link" : "http://www.radiosdelperu.pe/radio-sicuani",
+		"source" : "http://stm26.veemesoft.com.ar:20186/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bkmdtyjlzxfh.png"
+		},
+	" campesina" : {
+		"link" : "http://www.radiosdelperu.pe/radio-campesina",
+		"source" : "http://167.114.118.120:7482/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/p97B3D8sVD.jpg"
+		},
+	" litoral" : {
+		"link" : "http://www.radiosdelperu.pe/radio-litoral",
+		"source" : "http://playservistream.net:7050/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Hy2jyKTVXD.png"
+		},
+	" paraiso" : {
+		"link" : "http://www.radiosdelperu.pe/radio-paraiso",
+		"source" : "http://radio.sistemasandinos.org:7150/stream/1/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/drpk6ybzggp4.jpg"
+		},
+	" libertad huancavelica" : {
+		"link" : "http://www.radiosdelperu.pe/radio-libertad-huancavelica",
+		"source" : "http://gnstreammedia.net:8004/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rcqmjxxzjr7b.jpg"
+		},
+	" apurimaq" : {
+		"link" : "http://www.radiosdelperu.pe/radio-apurimaq",
+		"source" : "http://audio.perustream.com:5008/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/9h6vcmnd73eg.png"
+		},
+	" quillabamba" : {
+		"link" : "http://www.radiosdelperu.pe/radio-quillabamba",
+		"source" : "http://65.60.45.74:5114/;stream/1",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/TujAnAkr4H.jpg"
+		},
+	" video stereo" : {
+		"link" : "http://www.radiosdelperu.pe/radio-video-stereo",
+		"source" : "http://sistemasandinos.org:10540/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ufrqpv2admrh.png"
+		},
+	" fiesta 1055 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-fiesta-1055-fm",
+		"source" : "http://46.4.33.73:5250/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/suvf24eyrknr.png"
+		},
+	" picaflor 963 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-picaflor-963-fm",
+		"source" : "http://46.4.33.73:5154/;stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rmue4gkekhk7.jpg"
+		},
+	" maranon" : {
+		"link" : "http://www.radiosdelperu.pe/radio-maranon",
+		"source" : "http://66.7.210.75:8356/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/EtpYxpK3r9.jpg"
+		},
+	" super mix 909 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-super-mix-909-fm",
+		"source" : "http://ip.blstreamperu.com:9788/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ubnru4bshynx.jpg"
+		},
+	" la inolvidable" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-inolvidable",
+		"source" : "http://14003.live.streamtheworld.com/CRP_LI_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2b7cvuLrCb.png"
+		},
+	" turbomix am" : {
+		"link" : "http://www.radiosdelperu.pe/radio-turbomix-am",
+		"source" : "http://167.114.118.120:7626/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rTVVWYWGVF.jpg"
+		},
+	" azul 840" : {
+		"link" : "http://www.radiosdelperu.pe/radio-azul-840",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/VCdqxhGz9f.png"
+		},
+	" enmanuel" : {
+		"link" : "http://www.radiosdelperu.pe/radio-enmanuel",
+		"source" : "http://195.154.56.114:9068/;stream.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wsyhbq82wtdz.png"
+		},
+	" san bartolome" : {
+		"link" : "http://www.radiosdelperu.pe/radio-san-bartolome",
+		"source" : "http://radio.sistemasandinos.org:7148/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gxqppsfmngcn.png"
+		},
+	" andahuaylas" : {
+		"link" : "http://www.radiosdelperu.pe/radio-andahuaylas",
+		"source" : "http://samuel.i-radio.co:8000/andahuaylas",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8mdxas9nrtmy.jpg"
+		},
+	" san borja" : {
+		"link" : "http://www.radiosdelperu.pe/radio-san-borja",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/FTf7VRjMbe.jpg"
+		},
+	" maranatha" : {
+		"link" : "http://www.radiosdelperu.pe/radio-maranatha",
+		"source" : "http://212.83.146.67:7218/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/static/images/radio-default.jpg"
+		},
+	" melodia am" : {
+		"link" : "http://www.radiosdelperu.pe/radio-melodia-am",
+		"source" : "http://198.144.188.47:9306/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/JapYtZ3DfT.png"
+		},
+	" altura" : {
+		"link" : "http://www.radiosdelperu.pe/radio-altura",
+		"source" : "http://167.114.118.120:7816/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vekzkxwtpwse.png"
+		},
+	"top latino" : {
+		"link" : "http://www.radiosdelperu.pe/top-latino",
+		"source" : "http://173.236.60.186:8020/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fTmfsKeREm.png"
+		},
+	" santa rosa" : {
+		"link" : "http://www.radiosdelperu.pe/radio-santa-rosa",
+		"source" : "http://ip.blstreamperu.com:9828/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pyeuat38kjwr.png"
+		},
+	" miraflores" : {
+		"link" : "http://www.radiosdelperu.pe/radio-miraflores",
+		"source" : "rtsp://62.210.189.222/streamaac/9310",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dBPFZ5rLme.png"
+		},
+	" scala de oro" : {
+		"link" : "http://www.radiosdelperu.pe/radio-scala-de-oro",
+		"source" : "http://212.83.146.67:7968/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/WSYcgYwwDK.png"
+		},
+	" tacna fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-tacna-fm",
+		"source" : "http://173.244.209.219:6032/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/S7QT9C96Pm.jpg"
+		},
+	" pirata fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-pirata-fm",
+		"source" : "http://167.114.118.120:7628/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/sjHMAz7rzG.jpg"
+		},
+	" alpamayo" : {
+		"link" : "http://www.radiosdelperu.pe/radio-alpamayo",
+		"source" : "http://195.154.56.114:9244/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/n5g5fsdfd78a.png"
+		},
+	" amor" : {
+		"link" : "http://www.radiosdelperu.pe/radio-amor",
+		"source" : "http://167.114.118.120:7450/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2kBv82ABUX.png"
+		},
+	"la vero  romantica" : {
+		"link" : "http://www.radiosdelperu.pe/la-vero-radio-romantica",
+		"source" : "http://stream.zenolive.com/uuxgsk87eyduv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/h5jd3bsfgv97.jpg"
+		},
+	" uno" : {
+		"link" : "http://www.radiosdelperu.pe/radio-uno",
+		"source" : "http://173.244.209.219:6016/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7bbQwXQ8V8.png"
+		},
+	" americana" : {
+		"link" : "http://www.radiosdelperu.pe/radio-americana",
+		"source" : "http://167.114.118.120:7694/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ca3mfsqysrak.png"
+		},
+	" doble nueve" : {
+		"link" : "http://www.radiosdelperu.pe/radio-doble-nueve",
+		"source" : "http://198.100.158.66:9028/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/TZjUVKDZgb.png"
+		},
+	" discoteca 90" : {
+		"link" : "http://www.radiosdelperu.pe/radio-discoteca-90",
+		"source" : "http://195.154.167.62:9400/stream/1/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dyazjpn6jmch.png"
+		},
+	"bbn" : {
+		"link" : "http://www.radiosdelperu.pe/bbn",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fvwqpm3xwxud.png"
+		},
+	" lider" : {
+		"link" : "http://www.radiosdelperu.pe/radio-lider",
+		"source" : "http://195.154.167.62:7058/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cdukgqzwxjew.jpg"
+		},
+	" latidos" : {
+		"link" : "http://www.radiosdelperu.pe/radio-latidos",
+		"source" : "http://ip.peruhits.com:7230/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rnynfyczp4ht.png"
+		},
+	"bbn" : {
+		"link" : "http://www.radiosdelperu.pe/bbn",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fvwqpm3xwxud.png"
+		},
+	" shalomplus" : {
+		"link" : "http://www.radiosdelperu.pe/radio-shalomplus",
+		"source" : "http://162.210.196.140:21121/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ucladndz5hsh.jpeg"
+		},
+	"la ochentera" : {
+		"link" : "http://www.radiosdelperu.pe/la-ochentera",
+		"source" : "http://65.60.2.26:6052/;stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4xm3t3u4gvrs.png"
+		},
+	" inca" : {
+		"link" : "http://www.radiosdelperu.pe/radio-inca",
+		"source" : "http://17853.live.streamtheworld.com/CRP_INC_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/n9tCTVB7pf.png"
+		},
+	" sol 1045 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-sol-1045-fm",
+		"source" : "http://195.154.56.114:9156/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cdlfkul5pul7.png"
+		},
+	" qorilazo 1210 am" : {
+		"link" : "http://www.radiosdelperu.pe/radio-qorilazo-1210-am",
+		"source" : "http://stm20.srvstm.com:23110/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/qb9nexnwgyda.png"
+		},
+	" studio97" : {
+		"link" : "http://www.radiosdelperu.pe/radio-studio97",
+		"source" : "http://gnstreammedia.net:8010/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/h7aspsajvyvt.png"
+		},
+	"studio lider" : {
+		"link" : "http://www.radiosdelperu.pe/studio-lider",
+		"source" : "http://108.59.8.195:7036/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tbc6cxknjpz3.png"
+		},
+	" expresion 1069 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-expresion-1069-fm",
+		"source" : "http://131.255.195.61:8040/expresionilo.ogg",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8MH6XqwrhL.png"
+		},
+	" exitosa" : {
+		"link" : "http://www.radiosdelperu.pe/radio-exitosa",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tq4NUPk2pm.png"
+		},
+	" chaski" : {
+		"link" : "http://www.radiosdelperu.pe/radio-chaski",
+		"source" : "http://162.210.196.145:32105/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rz4q7wkdgu32.png"
+		},
+	" frecuencia c 917 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-frecuencia-c-917-fm",
+		"source" : "http://195.154.56.114:9038/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mgsnfyqcvafd.jpg"
+		},
+	" ilucan" : {
+		"link" : "http://www.radiosdelperu.pe/radio-ilucan",
+		"source" : "http://167.114.118.120:7820/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7ZzNqLVgV5.jpg"
+		},
+	"estacion 90s " : {
+		"link" : "http://www.radiosdelperu.pe/estacion-90s-radio",
+		"source" : "http://radio.ancashserver.com:9552/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5ghp5mugs2hg.jpg"
+		},
+	
+	" bulevar" : {
+		"link" : "http://www.radiosdelperu.pe/radio-bulevar",
+		"source" : "http://198.100.158.66:7022/;.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hphg5sy2wzb8.jpg"
+		},
+	"tabocas mix 921 fm" : {
+		"link" : "http://www.radiosdelperu.pe/tabocas-mix-921-fm",
+		"source" : "http://stream.onliveperu.com:9728/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wm2srychjece.png"
+		},
+	
+	" ritmo romantica" : {
+		"link" : "http://www.radiosdelperu.pe/radio-ritmo-romantica",
+		"source" : "http://18543.live.streamtheworld.com/CRP_RIT_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/VZd6pyTMTY.png"
+		},
+	" onda popular fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-onda-popular-fm",
+		"source" : "http://195.154.56.114:7054/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/s2btna8x23rw.png"
+		},
+	" taki peru" : {
+		"link" : "http://www.radiosdelperu.pe/radio-taki-peru",
+		"source" : "http://streaming.radionomy.com/takirad",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bgu9vd2kenxa.png"
+		},
+	" callao" : {
+		"link" : "http://www.radiosdelperu.pe/radio-callao",
+		"source" : "http://stream.infomagia.com:8000/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/3XFbPdY5ke.jpg"
+		},
+	" master" : {
+		"link" : "http://www.radiosdelperu.pe/radio-master",
+		"source" : "http://ip.perustreaming.net:9740/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/skh6wzpknaee.png"
+		},
+	" corazon" : {
+		"link" : "http://www.radiosdelperu.pe/radio-corazon",
+		"source" : "http://15363.live.streamtheworld.com/RADIO_CORAZON_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/eLk5CpPL4E.png"
+		},
+	" chumpiwillkas" : {
+		"link" : "http://www.radiosdelperu.pe/radio-chumpiwillkas",
+		"source" : "http://radio.server100.top:8056/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/qcrh7k26xyax.png"
+		},
+	" inti raymi" : {
+		"link" : "http://www.radiosdelperu.pe/radio-inti-raymi",
+		"source" : "http://ip.melodyradios.com:9372/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hfjwzwkgyrpt.jpeg"
+		},
+	" frecuencia 100" : {
+		"link" : "http://www.radiosdelperu.pe/radio-frecuencia-100",
+		"source" : "http://oyotunstream.com:7066/;.aac",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dqRDgT2PRY.png"
+		},
+	" calor" : {
+		"link" : "http://www.radiosdelperu.pe/radio-calor",
+		"source" : "http://corporacionlatina.com:8000/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/arxsubhfxevc.png"
+		},
+	" alegria peru" : {
+		"link" : "http://www.radiosdelperu.pe/radio-alegria-peru",
+		"source" : "http://ip.blstreamperu.com:9736/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4u6ysblhwyeu.jpg"
+		},
+	"onda azul" : {
+		"link" : "http://www.radiosdelperu.pe/onda-azul",
+		"source" : "http://167.114.118.120:7160/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dbfdbe2g9dpx.png"
+		},
+	" yaravi" : {
+		"link" : "http://www.radiosdelperu.pe/radio-yaravi",
+		"source" : "http://99.198.110.162:7012/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/sbejepghhg7z.jpg"
+		},
+	"la estacion 971 fm" : {
+		"link" : "http://www.radiosdelperu.pe/la-estacion-971-fm",
+		"source" : "http://167.114.118.120:7158/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mfgbrdd4j7cg.png"
+		},
+	" chevere 967 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-chevere-967-fm",
+		"source" : "http://radio.sistemasandinos.org:10550/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xarwkgjpxgj7.png"
+		},
+	" expresion moquegua" : {
+		"link" : "http://www.radiosdelperu.pe/radio-expresion-moquegua",
+		"source" : "http://181.65.232.125:8010/expresionmoq-ilo.ogg",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2dZ67egFgX.png"
+		},
+	" 1550 am" : {
+		"link" : "http://www.radiosdelperu.pe/radio-1550-am",
+		"source" : "http://212.83.146.67:7212/;.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/l3cbg2rpygzu.png"
+		},
+	" atmosfera" : {
+		"link" : "http://www.radiosdelperu.pe/radio-atmosfera",
+		"source" : "http://167.114.118.120:7032/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/k7atkkekxguw.png"
+		},
+	" galaxia 999 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-galaxia-999-fm",
+		"source" : "http://45.63.107.36:8096/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/szrxeyprygc2.png"
+		},
+	" caliente lima" : {
+		"link" : "http://www.radiosdelperu.pe/radio-caliente-lima",
+		"source" : "http://ample-zeno-14.radiojar.com/251u692hfceuv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bh4egxxd3ybx.png"
+		},
+	" unsj 931 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-unsj-931-fm",
+		"source" : "http://reseller01.shockmedia.com.ar:9386/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nhqtafyvhsrx.png"
+		},
+	" alegria del peru" : {
+		"link" : "http://www.radiosdelperu.pe/radio-alegria-del-peru",
+		"source" : "http://195.154.56.114:9238/;&type=mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cqudzeszalys.jpg"
+		},
+	"bbn" : {
+		"link" : "http://www.radiosdelperu.pe/bbn",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fvwqpm3xwxud.png"
+		},
+	" nacional" : {
+		"link" : "http://www.radiosdelperu.pe/radio-nacional",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/eu9S53L8sZ.jpg"
+		},
+	"la cabana" : {
+		"link" : "http://www.radiosdelperu.pe/la-cabana",
+		"source" : "http://212.129.33.202:9808/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bc6mkl2guwjr.png"
+		},
+	" melodia 1053 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-melodia-1053-fm",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xzb3rdafqm9g.png"
+		},
+	" santa monica2" : {
+		"link" : "http://www.radiosdelperu.pe/radio-santa-monica2",
+		"source" : "http://stm26.veemesoft.com.ar:19986/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rmmrpptjfym9.png"
+		},
+	" exito 997 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-exito-997-fm",
+		"source" : "http://198.100.158.66:9132/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dpkqnhzb3awm.png"
+		},
+	" santa monica" : {
+		"link" : "http://www.radiosdelperu.pe/radio-santa-monica",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Gw6sebrzvH.png"
+		},
+	" quispillaccta" : {
+		"link" : "http://www.radiosdelperu.pe/radio-quispillaccta",
+		"source" : "http://icecasthd.net:27010/live",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/njysmbma6jcq.png"
+		},
+	" studio 5" : {
+		"link" : "http://www.radiosdelperu.pe/radio-studio-5",
+		"source" : "http://stream01.sytes.net:8088/live?type=.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/n6x4hceqjaev.png"
+		},
+	" panamericana" : {
+		"link" : "http://www.radiosdelperu.pe/radio-panamericana",
+		"source" : "http://192.99.148.184:6710/;*.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xgbPEVhymn.png"
+		},
+	" elite" : {
+		"link" : "http://www.radiosdelperu.pe/radio-elite",
+		"source" : "http://195.154.56.114:9030/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/THATHsFvhU.png"
+		},
+	" disney" : {
+		"link" : "http://www.radiosdelperu.pe/radio-disney",
+		"source" : "http://173.192.105.252:8000/stream/1/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/c9naybugfeej.png"
+		},
+	" moro" : {
+		"link" : "http://www.radiosdelperu.pe/radio-moro",
+		"source" : "http://46.4.33.73:5208/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jmrs6skzn4rw.png"
+		},
+	" super latina" : {
+		"link" : "http://www.radiosdelperu.pe/radio-super-latina",
+		"source" : "http://195.154.167.62:7086/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/amnn3nkgp5u9.png"
+		},
+	" llata" : {
+		"link" : "http://www.radiosdelperu.pe/radio-llata",
+		"source" : "https://streaming.shoutcast.com/VibesOnline",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ypcghgprrnkm.png"
+		},
+	" planeta" : {
+		"link" : "http://www.radiosdelperu.pe/radio-planeta",
+		"source" : "http://18723.live.streamtheworld.com/CRP_PLA_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tPMrZYueEe.png"
+		},
+	"black and white" : {
+		"link" : "http://www.radiosdelperu.pe/black-and-white",
+		"source" : "http://65.60.2.26:5146/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/TabZFL6yE2.png"
+		},
+	" titanka" : {
+		"link" : "http://www.radiosdelperu.pe/radio-titanka",
+		"source" : "http://67.212.179.138:7102/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/azewfy67np8s.png"
+		},
+	" santa beatriz" : {
+		"link" : "http://www.radiosdelperu.pe/radio-santa-beatriz",
+		"source" : "http://167.114.118.120:7288/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mefbsgnjluk8.png"
+		},
+	" moda" : {
+		"link" : "http://www.radiosdelperu.pe/radio-moda",
+		"source" : "http://19483.live.streamtheworld.com/CRP_MOD_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dEg9AUE3CD.png"
+		},
+	" panorama" : {
+		"link" : "http://www.radiosdelperu.pe/radio-panorama",
+		"source" : "http://195.154.56.114:9226/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/aqbsaqbatwrn.png"
+		},
+	"super latina" : {
+		"link" : "http://www.radiosdelperu.pe/super-latina",
+		"source" : "http://corporacionlatina.com:7002/?_=0.6326001838464975",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xutpcvrnt8um.jpg"
+		},
+	" trueno" : {
+		"link" : "http://www.radiosdelperu.pe/radio-trueno",
+		"source" : "http://212.83.146.67:7962/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vmLhnRXZzv.png"
+		},
+	" doble nueve heritage" : {
+		"link" : "http://www.radiosdelperu.pe/radio-doble-nueve-heritage",
+		"source" : "http://198.100.158.66:7030/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Uc3GLzqW8G.png"
+		},
+	" sputnick" : {
+		"link" : "http://www.radiosdelperu.pe/radio-sputnick",
+		"source" : "http://173.244.209.219:8450/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gzzqnq6fjneq.png"
+		},
+	" fm 96" : {
+		"link" : "http://www.radiosdelperu.pe/radio-fm-96",
+		"source" : "http://wowzaserver.net:9610/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/58dtFtmApQ.png"
+		},
+	" capital" : {
+		"link" : "http://www.radiosdelperu.pe/radio-capital",
+		"source" : "http://20283.live.streamtheworld.com/RADIO_CAPITALAAC_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gxKy7JRwrW.png"
+		},
+	"mas fm" : {
+		"link" : "http://www.radiosdelperu.pe/mas-fm",
+		"source" : "http://radiocumbiamix.com/wp-content/uploads/2017/09/RADIO-CUMBIA-MIX_01.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/f7srrqlddlud.png"
+		},
+	" son recuerdos" : {
+		"link" : "http://www.radiosdelperu.pe/radio-son-recuerdos",
+		"source" : "http://195.154.56.114:9178/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tvms4jjqdzcg.png"
+		},
+	" san martin" : {
+		"link" : "http://www.radiosdelperu.pe/radio-san-martin",
+		"source" : "http://108.163.229.102:8196/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cx6ctr6y7qxm.jpg"
+		},
+	" pachatusan" : {
+		"link" : "http://www.radiosdelperu.pe/radio-pachatusan",
+		"source" : "http://195.154.56.114:9222/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7d8egfmxyakl.jpg"
+		},
+	" ovacion" : {
+		"link" : "http://www.radiosdelperu.pe/radio-ovacion",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/PvbxdvYqCV.png"
+		},
+	" sabor mix 899 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-sabor-mix-899-fm",
+		"source" : "http://167.114.118.120:7688/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/qdvzfxybqea4.jpg"
+		},
+	"onda okey 955 fm" : {
+		"link" : "http://www.radiosdelperu.pe/onda-okey-955-fm",
+		"source" : "http://195.154.56.114:7100/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uteduulwuzx3.png"
+		},
+	" retro rock pop" : {
+		"link" : "http://www.radiosdelperu.pe/radio-retro-rock-pop",
+		"source" : "http://streaming.radionomy.com/Radio-Retro-Rock--Pop",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2KWzavFjjC.png"
+		},
+	" filarmonia" : {
+		"link" : "http://www.radiosdelperu.pe/radio-filarmonia",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pwTdeAxdw6.png"
+		},
+	" amazonica fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-amazonica-fm",
+		"source" : "http://195.154.52.184:9946/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rk8ymyuggwd3.jpg"
+		},
+	"onda cero" : {
+		"link" : "http://www.radiosdelperu.pe/onda-cero",
+		"source" : "http://192.99.148.184:6720/;*.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Adjngp9Gps.png"
+		},
+	" master2" : {
+		"link" : "http://www.radiosdelperu.pe/radio-master2",
+		"source" : "http://198.100.158.66:7090/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/x4JzjAfTFT.png"
+		},
+	"frecuencia 1330 am" : {
+		"link" : "http://www.radiosdelperu.pe/frecuencia-1330-am",
+		"source" : "http://giss.tv:8000/frecuencia1330.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wzu28ltcvanb.png"
+		},
+	"kpop mix aqp 2" : {
+		"link" : "http://www.radiosdelperu.pe/kpop-mix-aqp-2",
+		"source" : "http://stream.zenolive.com/kakdmg6mfvduv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mvr64zlcsall.png"
+		},
+	" los angeles chepen" : {
+		"link" : "http://www.radiosdelperu.pe/radio-los-angeles-chepen",
+		"source" : "http://94.23.159.187:9950/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jmcqq75fzgvu.png"
+		},
+	" stereo pampas 947 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-stereo-pampas-947-fm",
+		"source" : "http://radio.ancashserver.com:9868/?_=0.1907587758489172",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dt53buyu3pez.png"
+		},
+	" libertad de junin" : {
+		"link" : "http://www.radiosdelperu.pe/radio-libertad-de-junin",
+		"source" : "http://radio.transmite.pe:9342/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dvbebqc7x2u5.jpg"
+		},
+	" activa 87" : {
+		"link" : "http://www.radiosdelperu.pe/radio-activa-87",
+		"source" : "http://195.154.56.114:9128/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rubaneys4lc6.jpg"
+		},
+	" cutivalu" : {
+		"link" : "http://www.radiosdelperu.pe/radio-cutivalu",
+		"source" : "http://167.114.118.120:7380/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/B4DXTM7h4Q.png"
+		},
+	" doble nueve millennial" : {
+		"link" : "http://www.radiosdelperu.pe/radio-doble-nueve-millennial",
+		"source" : "http://198.100.158.66:9030/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/LxmwpNMPdL.png"
+		},
+	" doble n" : {
+		"link" : "http://www.radiosdelperu.pe/radio-doble-n",
+		"source" : "http://195.154.56.114:9260/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/VrEgh9S6Pq.jpg"
+		},
+	" impacto sur" : {
+		"link" : "http://www.radiosdelperu.pe/radio-impacto-sur",
+		"source" : "http://46.4.33.73:5160/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5sj5ue2wv9ml.jpeg"
+		},
+	" kpop mix aqp" : {
+		"link" : "http://www.radiosdelperu.pe/radio-kpop-mix-aqp",
+		"source" : "http://stream.zenolive.com/s42h3h8mfvduv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/syk9uvwyetkx.png"
+		},
+	"herencia rumbera" : {
+		"link" : "http://www.radiosdelperu.pe/herencia-rumbera",
+		"source" : "http://104.238.193.114:7000/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mvhvadrkdmzu.jpg"
+		},
+	" latina 959 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-latina-959-fm",
+		"source" : "http://217.147.94.171:5605/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8enfb6mpb67v.jpeg"
+		},
+	"old hits retro" : {
+		"link" : "http://www.radiosdelperu.pe/old-hits-retro",
+		"source" : "http://ample-zeno-10.radiojar.com/ahgvbgup9xduv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dyfz2cppuh6f.png"
+		},
+	" alegria fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-alegria-fm",
+		"source" : "http://radio.sistemasandinos.org:10546/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jjs588wc8tdr.png"
+		},
+	" anime obsesion" : {
+		"link" : "http://www.radiosdelperu.pe/radio-anime-obsesion",
+		"source" : "http://animeobsesion.net:8000/;stream.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gsnw6jczqfvx.png"
+		},
+	" poder uchiza 1041 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-poder-uchiza-1041-fm",
+		"source" : "http://212.83.146.67:7224/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wgeufayqja9z.png"
+		},
+	" turbomix fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-turbomix-fm",
+		"source" : "http://167.114.118.120:7624/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/87hpT4XAyD.jpg"
+		},
+	" la poderosa fm2" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-poderosa-fm2",
+		"source" : "http://78.129.224.17:3224/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gjf2kvnqbsvm.png"
+		},
+	
+	" cielo" : {
+		"link" : "http://www.radiosdelperu.pe/radio-cielo",
+		"source" : "http://167.114.118.120:7342/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/v8ysBgu9gh.jpg"
+		},
+	"telestereo 88 fm" : {
+		"link" : "http://www.radiosdelperu.pe/telestereo-88-fm",
+		"source" : "http://67.212.179.138:8300/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/yzwPXHpTnn.png"
+		},
+	"triple a" : {
+		"link" : "http://www.radiosdelperu.pe/triple-a",
+		"source" : "http://195.154.56.114:9100/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/p33kv2bparvg.jpeg"
+		},
+	" la voz" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-voz",
+		"source" : "http://radio.sistemasandinos.org:7096/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hwvvfud7qgxn.png"
+		},
+	" karicia" : {
+		"link" : "http://www.radiosdelperu.pe/radio-karicia",
+		"source" : "http://173.243.114.99:9996/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/9xrlqnpmd9pp.jpg"
+		},
+	" nova trujillo 1051 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-nova-trujillo-1051-fm",
+		"source" : "http://playservistream.net:7064/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7PRFNvQjgx.png"
+		},
+	"zl fm" : {
+		"link" : "http://www.radiosdelperu.pe/zlradio-fm",
+		"source" : "http://87.117.208.118:5561/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/n3xke8b3kj68.jpg"
+		},
+	" bacan sat" : {
+		"link" : "http://www.radiosdelperu.pe/radio-bacan-sat",
+		"source" : "http://lin2.san.fast-serv.com:6018/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/MgL6YghMzc.png"
+		},
+	" san juan 1450 am" : {
+		"link" : "http://www.radiosdelperu.pe/radio-san-juan-1450-am",
+		"source" : "http://gnstreammedia.net:8032/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xgfgdgp8vc54.jpg"
+		},
+	" huracan 999 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-huracan-999-fm",
+		"source" : "http://radio.sistemasandinos.org:7156/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/b5cxhu5h79km.jpg"
+		},
+	" planicie" : {
+		"link" : "http://www.radiosdelperu.pe/radio-planicie",
+		"source" : "http://radio.transmite.pe:9314/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/YgFG3SWRWQ.png"
+		},
+	" la ruta" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-ruta",
+		"source" : "http://ip.blstreamperu.com:9374/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/lbfagdgnj9dv.png"
+		},
+	" la n" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-n",
+		"source" : "https://stream.zenolive.com/ahzy9avygyduv",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ebgn329psgrc.png"
+		},
+	" jr 887 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-jr-887-fm",
+		"source" : "http://99.198.110.162:8038/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vh7ccjsuuc5y.jpg"
+		},
+	" clic" : {
+		"link" : "http://www.radiosdelperu.pe/radio-clic",
+		"source" : "http://192.198.102.182:9300/;stream.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pefsdycnxmx7.png"
+		},
+	" del amor" : {
+		"link" : "http://www.radiosdelperu.pe/radio-del-amor",
+		"source" : "http://listen64.radionomy.com/radiodelamor-online",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pseq3wpues8.jpg"
+		},
+	" madre de dios" : {
+		"link" : "http://www.radiosdelperu.pe/radio-madre-de-dios",
+		"source" : "http://centova.radios.pt:9564/stream",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/earrm6cvpmc2.jpg"
+		},
+	" satelite 1007 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-satelite-1007-fm",
+		"source" : "http://195.154.56.114:7044/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ywjnruxubntd.png"
+		},
+	" viva fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-viva-fm",
+		"source" : "http://65.60.45.74:5420/;stream.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/g7taszufwuey.jpg"
+		},
+
+	" melodia" : {
+		"link" : "http://www.radiosdelperu.pe/radio-melodia",
+		"source" : "http://198.144.188.47:9308/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pmsk4mvbaq7a.png"
+		},
+	"super activa sisa" : {
+		"link" : "http://www.radiosdelperu.pe/super-activa-sisa",
+		"source" : "http://167.114.118.119:7184/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/euk6vcv6wlwy.png"
+		},
+	" impacto de navan" : {
+		"link" : "http://www.radiosdelperu.pe/radio-impacto-de-navan",
+		"source" : "http://radio.sowertec.com:9990/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/mndfxkfzuucj.png"
+		},
+	" ancash" : {
+		"link" : "http://www.radiosdelperu.pe/radio-ancash",
+		"source" : "http://gnstreammedia.net:8006/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/slcfre8zhe85.jpg"
+		},
+	"z rock and pop" : {
+		"link" : "http://www.radiosdelperu.pe/z-rock-and-pop",
+		"source" : "http://167.114.118.120:7440/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/E3HB8dcK5s.png"
+		},
+	" exitos 921 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-exitos-921-fm",
+		"source" : "http://stream2.sarandi690.com.uy:26617/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jedm9kwjx3hr.png"
+		},
+	" double nueve classic" : {
+		"link" : "http://www.radiosdelperu.pe/radio-double-nueve-classic",
+		"source" : "http://198.100.158.66:7032/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/CU76Fq3Pq8.png"
+		},
+	" onda popular" : {
+		"link" : "http://www.radiosdelperu.pe/radio-onda-popular",
+		"source" : "http://162.219.28.117:9388/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dpuggxhnekmp.png"
+		},
+	"amauta " : {
+		"link" : "http://www.radiosdelperu.pe/amauta-radio",
+		"source" : "http://167.114.118.119:7020/?_=0.3030103029267699",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wc5fymhtebch.png"
+		},
+	" magica" : {
+		"link" : "http://www.radiosdelperu.pe/radio-magica",
+		"source" : "http://18253.live.streamtheworld.com/MAG_AAC_SC",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gM2SFsZvYx.jpg"
+		},
+	" alegria" : {
+		"link" : "http://www.radiosdelperu.pe/radio-alegria",
+		"source" : "http://radio.sistemasandinos.org:10548/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/htskr2vwssap.png"
+		},
+	"union la  1033 fm" : {
+		"link" : "http://www.radiosdelperu.pe/union-la-radio-1033-fm",
+		"source" : "http://playservistream.net:7218/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/LnygXsRuwW.png"
+		},
+	" la karibena" : {
+		"link" : "http://www.radiosdelperu.pe/radio-la-karibena",
+		"source" : "http://167.114.118.120:7442/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4T9RuHnF42.png"
+		},
+	"bbn" : {
+		"link" : "http://www.radiosdelperu.pe/bbn",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fvwqpm3xwxud.png"
+		},
+	"studio 97" : {
+		"link" : "http://www.radiosdelperu.pe/studio-97",
+		"source" : "http://91.121.113.129:8116/mountpoint",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5nxj3pqnbjfx.jpeg"
+		},
+	"fuego mix" : {
+		"link" : "http://www.radiosdelperu.pe/fuego-mix",
+		"source" : "http://radio.sistemasandinos.org:7166/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/psbmxwqqhrtz.png"
+		},
+	"rocksour " : {
+		"link" : "http://www.radiosdelperu.pe/rocksour-radio",
+		"source" : "http://knight.wavestreamer.com:9538/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/psvxgkcswcpc.jpeg"
+		},
+	"rbc online" : {
+		"link" : "http://www.radiosdelperu.pe/rbc-online",
+		"source" : "",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wnnhndstcbvu.png"
+		},
+	"olivar" : {
+		"link" : "http://www.radiosdelperu.pe/olivar",
+		"source" : "http://83.142.226.45:19244/stream?type=.mp3",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tbfefexq89x8.png"
+		},
+	" master mix" : {
+		"link" : "http://www.radiosdelperu.pe/radio-master-mix",
+		"source" : "http://195.154.56.114:9200/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/skw7cxzgmyfq.jpg"
+		},
+	" tropical" : {
+		"link" : "http://www.radiosdelperu.pe/radio-tropical",
+		"source" : "https://streaming.radio.co/s41de0139f/listen",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Fv4dRNR9WK.png"
+		},
+	"jazz contempo" : {
+		"link" : "http://www.radiosdelperu.pe/jazz-contempo",
+		"source" : "http://198.100.158.66:9098/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/kvk9ytyv6dfb.png"
+		},
+	" peru cumbia" : {
+		"link" : "http://www.radiosdelperu.pe/radio-peru-cumbia",
+		"source" : "http://65.60.2.26:6048/stream/1/;",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/kuZzY2r9pS.png"
+		},
+	" activa 881 fm" : {
+		"link" : "http://www.radiosdelperu.pe/radio-activa-881-fm",
+		"source" : "http://stm51.srvstm.com:20366/",
+		"image" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/k8vrv5pxtctu.png"
+		}
+	}

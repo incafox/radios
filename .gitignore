@@ -1,0 +1,6 @@
+testx.avi
+*.avi
+*.mp4
+.git/*
+__pycache__/*
+.vscode/*
